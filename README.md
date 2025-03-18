@@ -12,3 +12,6 @@ For more information, refer to the [Bluetooth SIG Profile Tuning Suite](https://
 
 ### 13.33137.0.0
 * [pts-dongle-13.33137.0.0-release-notes.md](./pts-dongle-13.33137.0.0-release-notes.md)
+
+### 13.34533.0.0
+* [pts-dongle-13.34533.0.0-release-notes.md](./pts-dongle-13.34533.0.0-release-notes.md)
