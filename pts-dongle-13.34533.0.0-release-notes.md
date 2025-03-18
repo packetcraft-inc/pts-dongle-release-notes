@@ -4,7 +4,7 @@
 
 #### Fixes several issues that are related to MIC failure with or without loss of BIG sync:
 
-*   **#247455:**  While streaming LE Audio data got the Connection Terminated Due To MIC Failure
+*   **#27455:**   While streaming LE Audio data got the Connection Terminated Due To MIC Failure
 
 *   **#27966:**   HCI_CONNECTION_TERMINATED_DUE_TO_MIC_FAILURE observed for TC TMAP/CT/VRC/BV-06-I
 
